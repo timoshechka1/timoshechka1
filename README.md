@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 I'm currently working on<br>- A smart, fully customizable calculator app built with **Kivy** — themes, fonts, scientific features, and clean UI<br>- A 2D game using **Pygame**, featuring animations, enemies, and throwable items<br>- Utility tools in **C#** and **C++** for Windows with a focus on performance and simplicity<br><br>## 🤝 I'm looking to collaborate on<br>- Python-based UI/UX projects (especially with **Kivy** or **Pygame**)<br>- Game mechanics in **C++**<br>- Handy desktop tools with minimal design and maximum usability<br><br>## 🧠 I'm looking for help with<br>- Improving Kivy UI performance and dynamic theming<br>- Structuring scalable Telegram bots (async, multibot, etc.)<br>- Setting up CI/CD workflows for Python and C++ projects<br><br>## 🌱 I'm currently learning<br>- Advanced **asyncio** techniques in Python<br>- Performance optimization in **modern C++**<br>- Building smooth and responsive apps with **WPF** in C#<br><br>## 💬 Ask me about<br>- Kivy customization (themes, fonts, layouts)<br>- Building Telegram bots (with clean command/message handling)<br>- Packaging apps with **PyInstaller** — making Python feel like native software<br><br>## ⚡ Fun fact<br>> My calculator app is lighter than most cat pictures in HD 🐱<br>
 
-<!--
-**timoshechka1/timoshechka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=timoshechka1&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=timoshechka1&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=timoshechka1&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=timoshechka1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
